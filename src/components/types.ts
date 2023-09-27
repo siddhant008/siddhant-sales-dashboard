@@ -1,0 +1,20 @@
+export type arrayType = {
+    Date: string;
+    Product: string;
+    Region: string;
+    "Radio Contribution": string;
+    "TV Contribution": string;
+    "Social Contribution": string;
+    "Search Contribution": string;
+    "Website Contribution": string;
+    "Store Contribution": string;
+    "Radio Spend": string;
+    "TV Spend": string;
+    "Social Spend": string;
+    "Search Spend": string;
+    "Website Spend": string;
+    "Store Spend": string;
+    "Total Sales": string;
+    "Total Investment": string;
+    Impact: string;
+  };
